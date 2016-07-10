@@ -1,0 +1,96 @@
+/*!
+ * Start Bootstrap - Blog Post (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+/*! body */
+body {
+    padding: 10px 10px;
+    background-color: #f2f2f2;
+    
+}
+
+
+
+
+/**** index.php****/
+
+/* sort_by button */
+#sort_button {
+	padding-left: 0;
+	padding-bottom: 20px;
+	margin:auto;
+}
+
+#sort_button_2 {
+	margin-left: 0;
+	padding-left: 0;
+
+}
+
+#more_details_button {
+	padding-top: 5;
+	padding-bottom: 5;
+}
+
+/**** table header color****/
+#color {
+	background-color: #4dd2ff;
+}
+
+#padding_off {
+	padding: 0;
+}  
+
+/**** add_contact.php ****/
+
+/* div page content*/
+.content {
+	margin-top: 40px;
+}
+
+.submit_button {
+	margin-top: 20px;
+}
+
+/**** single_contact.php ****/
+
+/* div's background color */
+#div1 {
+	padding-top: 15px;
+	margin-right: 0px;
+	padding-right: 15px;
+	background-color: white;
+	margin-bottom: 30px;
+	padding-bottom: 15px;
+	-webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+	
+}
+
+#div2 {
+	padding-top: 0px;
+
+	margin-right:0px;
+	padding-right: 15px;
+
+	background-color: white;
+}
+
+#div3 {
+	padding-top: 0px;
+	margin-right: 0px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+	background-color: white;
+
+}
+
+
+#div4 {
+	margin-left:195;
+	margin-right: 20;
+}
